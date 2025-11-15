@@ -40,8 +40,10 @@ Each algorithm shows:
 ## 📸 Screenshots
 ### 🔹 Main Interface
 <img width="1917" height="942" alt="image 1" src="https://github.com/user-attachments/assets/774c378b-7c73-4a62-b925-76f65c3b83ea" />
+
 ### 🔹 Simulation Output
 <img width="1905" height="835" alt="image 2" src="https://github.com/user-attachments/assets/f4939683-6de8-4652-b3bb-5eb4fffe0022" />
+
 ### 🔹 Simulation Output
 <img width="1903" height="988" alt="image 3" src="https://github.com/user-attachments/assets/370acf2b-c892-4626-b319-9fb2e9503627" />
 
