@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Memory Allocation Simulator</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+    <h1>Memory Allocation Simulator</h1>
+
+    <div class="card">
+        <h2>Enter Memory Blocks</h2>
+        <input id="blocks" type="text" placeholder="e.g. 100, 500, 200, 300, 600">
+        
+        <h2>Enter Process Sizes</h2>
+        <input id="processes" type="text" placeholder="e.g. 212, 417, 112, 426">
+
+        <button onclick="runSimulation()">Run Simulation</button>
+        <button class="reset" onclick="resetPage()">Reset</button>
+    </div>
+
+    <div id="results"></div>
+
+    <script src="script.js"></script>
+</body>
+</html>
